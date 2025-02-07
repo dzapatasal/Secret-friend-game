@@ -38,5 +38,3 @@ git push -u origin main
   ```bash
   git push -u origin main --force
   ```
-
-Si te aparece algún error o mensaje extraño, dime y lo resolvemos juntos. 🚀😊
