@@ -30,8 +30,7 @@ Este es un proyecto web simple desarrollado con HTML, CSS y JavaScript puro, sin
 
 ## Captura de pantalla
 
-[![Ver demo del proyecto](https://drive.google.com/uc?id=1Lo-DUYACzYh-1IwnKvUiA6IhU5kHhaS9)](https://drive.google.com/file/d/d/1OHXqkkLW6lJjCEG1sc5N-TYNTPq6ti7E/view)
-
+[![Ver demo del proyecto](https://drive.google.com/uc?id=1Lo-DUYACzYh-1IwnKvUiA6IhU5kHhaS9)](https://drive.google.com/uc?id=1OHXqkkLW6lJjCEG1sc5N-TYNTPq6ti7E)
 
 ## Contribución
 
